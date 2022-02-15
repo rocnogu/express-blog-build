@@ -1,0 +1,31 @@
+
+
+
+
+
+
+POST http://localhost:6969/users/register
+Content-Type: application/json
+
+{
+    "First_Name": "Pavel",
+    "Last_Name": "Petkov",
+    "name": "rocnogu",
+    "Password": "babati123",
+    "email": "rocnogu@abv.bg",
+    "Avatar": "https://i.ibb.co/TMGtD3h/Pavel-1.jpg",
+    "Location": "Berlin",
+    "Website": "https://rocnogu.wordpress.com/",
+    "Gender": "Male",
+    "Bio": "rocnogu bio",
+    "Age": 39
+}   
+
+
+
+
+
+
+
+
+    
